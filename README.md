@@ -4,4 +4,4 @@ This repository collects information and notebooks that might be useful for stud
 
 There are also notebooks on basic generation of gravitational wave signal.
 
-This repository is very much under coinstruction, please send feedback to jose.ezquiaga@nbi.ku.dk
+This repository is very much under construction, please send feedback to jose.ezquiaga@nbi.ku.dk
