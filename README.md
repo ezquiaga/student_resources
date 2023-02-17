@@ -10,3 +10,8 @@ LIGO-Virgo-KAGRA sensitivity curves can be found here: https://dcc.ligo.org/LIGO
 
 
 This repository is very much under construction, please send feedback to jose.ezquiaga@nbi.ku.dk
+
+---
+References
+
+- As an introduction to the subject, I like Michele Maggiore's [Gravitational Waves Vol. 1 book](https://global.oup.com/academic/product/gravitational-waves-9780198570745?cc=dk&lang=en&). In particular chapter 4.1 for understanding the sigals from compact binary coalescences and chapter 7 for learning about the basic data analysis techniques
